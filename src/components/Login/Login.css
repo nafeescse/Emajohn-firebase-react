@@ -1,0 +1,44 @@
+.login{
+    width: 50%;
+    margin: auto;
+    /* border: 1px solid red; */
+    box-shadow: -5px 5px 10px rgb(148, 148, 247);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-grp input{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    /* border: none; */
+    
+}
+.input{
+    width: 400px;
+    height: 40px;
+}
+.text{
+    text-align: center;
+}
+.submit{
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 400px;
+    height: 40px;
+    background: rgb(72, 72, 255);
+    color: aliceblue;
+    border: none;
+    font-size: 20px;
+}
+.line{
+    display: flex;
+    align-items: center;
+}
+
+.hr{
+    width: 40%;
+    height: 1px;
+}
